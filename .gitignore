@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Local secrets
+.env
+.env.*
+*.token
+huggingface_token*
+
+# Large/generated artifacts
+runs/
+outputs/
+checkpoints/
+models/
+solutions/
+kd_targets*.jsonl
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+pytorch_model*.bin
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

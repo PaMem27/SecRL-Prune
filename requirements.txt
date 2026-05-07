@@ -1,0 +1,7 @@
+torch>=2.1
+transformers>=4.40
+accelerate>=0.30
+tqdm>=4.66
+safetensors>=0.4
+sentencepiece>=0.2
+protobuf>=4.25

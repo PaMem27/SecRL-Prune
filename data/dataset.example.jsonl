@@ -1,0 +1,5 @@
+{"task_id": "601", "prompt": "def max_chain_length(arr, n):\n    # Write a function to find the longest chain which can be formed from the given set of pairs.\n    # Write your code below\n"}
+{"task_id": "602", "prompt": "def first_repeated_char(str1):\n    # Write a python function to find the first repeated character in a given string.\n    # Write your code below\n"}
+{"task_id": "603", "prompt": "def get_ludic(n):\n    # Write a function to get a lucid number smaller than or equal to n.\n    # Write your code below\n"}
+{"task_id": "604", "prompt": "def reverse_words(s):\n    # Write a function to reverse words in a given string.\n    # Write your code below\n"}
+{"task_id": "605", "prompt": "def prime_num(num):\n    # Write a function to check if the given integer is a prime number.\n    # Write your code below\n"}

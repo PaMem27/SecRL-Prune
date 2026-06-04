@@ -273,11 +273,12 @@ If you use this repository, please cite:
 @inproceedings{memarzadeh2026secrlprune,
   title     = {SecRL-Prune: Structured Reinforcement Learning-Based Pruning of CodeLLMs for Preserving Adversarial Code Mutation},
   author    = {Memarzadehsaghezi, Parsa and Madani, Pooria and El-Khatib, Khalil},
-  booktitle = {Proceedings of the ACM Conference on Data and Application Security and Privacy (CODASPY)},
+  booktitle = {Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy},
   year      = {2026},
+  publisher = {ACM},
+  address   = {Frankfurt am Main, Germany},
   doi       = {10.1145/3800506.3803508}
 }
-```
 
 ---
 

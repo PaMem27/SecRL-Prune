@@ -269,7 +269,7 @@ Compression examples:
 
 If you use this repository, please cite:
 
-
+bibtext
 @inproceedings{memarzadeh2026secrlprune,
   title     = {SecRL-Prune: Structured Reinforcement Learning-Based Pruning of CodeLLMs for Preserving Adversarial Code Mutation},
   author    = {Memarzadehsaghezi, Parsa and Madani, Pooria and El-Khatib, Khalil},

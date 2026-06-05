@@ -279,6 +279,7 @@ If you use this repository, please cite:
   address   = {Frankfurt am Main, Germany},
   doi       = {10.1145/3800506.3803508}
 }
+```
 
 ---
 

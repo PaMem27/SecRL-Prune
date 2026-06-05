@@ -269,13 +269,13 @@ Compression examples:
 
 If you use this repository, please cite:
 
-bibtext
+```bibtex
 @inproceedings{memarzadeh2026secrlprune,
   title     = {SecRL-Prune: Structured Reinforcement Learning-Based Pruning of CodeLLMs for Preserving Adversarial Code Mutation},
-  author    = {Memarzadehsaghezi, Parsa and Madani, Pooria and El-Khatib, Khalil},
-  booktitle = {Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy},
+  author    = {Memarzadeh, Parsa and Madani, Pooria and El-Khatib, Khalil},
+  booktitle = {Proceedings of the 16th ACM Conference on Data and Application Security and Privacy (CODASPY '26)},
   year      = {2026},
-  publisher = {ACM},
+  publisher = {Association for Computing Machinery},
   address   = {Frankfurt am Main, Germany},
   doi       = {10.1145/3800506.3803508}
 }

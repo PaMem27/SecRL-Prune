@@ -281,8 +281,4 @@ If you use this repository, please cite:
 }
 ```
 
----
 
-## Acknowledgments
-
-This repository is released for research on structured CodeLLM compression and teacher-preserving pruning.
